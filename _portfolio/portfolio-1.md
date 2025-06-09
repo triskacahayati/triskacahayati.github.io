@@ -22,7 +22,6 @@ Fig. 1 PCB Design using Eagle Software (not a final design, only a snippet)
 ▶️**Hardware Assembly, Testing, and Firmware Development**
 Writing efficient C++ code for microcontrollers (Arduino), handling interrupts, and managing peripherals. In this section, I implemented communication protocols, I2C, to interface with the sensors. The communication modules that were configured and utilized were Wi-Fi for reliable data transmission. To indentify and resolve issues at both hardware and firmware, I did debug and Troubleshoot. 
 <br/><img src='/images/500x300.png'>
-
 Fig. 2 Firmware Development using Arduino (not a final code, only a snippet)
 
 ▶️**IoT Platform Integration and Data Transmission**
