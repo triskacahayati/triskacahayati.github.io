@@ -22,7 +22,7 @@ repository               : "triskacahayati/triskacahayati.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pasfoto.png"
+  avatar           : "pasfoto.jpg"
   name             : "Triska Cahayati"
   pronouns         : # example: "she/her"  
   bio              : "System Ethusiast"
