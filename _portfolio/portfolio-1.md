@@ -29,9 +29,9 @@ Fig. 2 Firmware Development using Arduino (not a final code, only a snippet)
 ▶️**IoT Platform Integration and Data Transmission**
 Core aspect to ensure seamless and realiable data transmission. The data was sent to an IoT platform named ANTARES of Telkom. 
 
-<br/><img src='/images/Hasil Data yang dikirimkan ke antares.png'>
+<br/><img src='/images/w202.png'>
 
-Fig. 3 Data Transmission to Platform 
+Fig. 3 Data Transmission process 
 
 <br/><img src='/images/hasil.jpg'>
 
